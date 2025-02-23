@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(218, 222, 210)7
+}
+h1{
+    color: #79c0a5;
+    font-size: 3rem;
+}
+
+h3{
+    color: #074799;
+    font-size: 3rem;
+}
+
+p{
+    color: #9dabaa;
+    font-size: 2.2rem;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: pink;
+    
+}
